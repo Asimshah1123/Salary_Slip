@@ -1,0 +1,1 @@
+https://www.revolut.com/api/exchange/quote?amount=100&country=GB&fromCurrency=USD&isRecipientAmount=false&toCurrency=INR
