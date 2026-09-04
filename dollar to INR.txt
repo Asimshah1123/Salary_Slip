@@ -1,1 +1,2 @@
 https://www.revolut.com/api/exchange/quote?amount=100&country=GB&fromCurrency=USD&isRecipientAmount=false&toCurrency=INR
+https://www.xe.com/api/protected/midmarket-converter/
